@@ -9,7 +9,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "langchain[anthropic]>=0.3.24",
     "langgraph-cli[inmem]>=0.2.10",
-    "langgraph>=0.3.34",
+    "langgraph>=0.4.1",
     "python-dotenv>=1.1.0",
     "ruff>=0.11.12",
 ]
